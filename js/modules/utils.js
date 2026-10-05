@@ -1,4 +1,4 @@
-const lang = require('../lang/en/en');
+const lang = require('../../lang/en/en');
 
 class Utils {
     getDate(name) {
